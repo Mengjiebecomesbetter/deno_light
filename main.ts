@@ -50,4 +50,4 @@ console.log(`
     Elevation:${resorts.elevation} feet,
     Snow: ${resorts.snow},
     Expectedsnowfall: ${resorts.expectedSnowfall} cm
-`, "color:blue");
+`, "color:pink");
